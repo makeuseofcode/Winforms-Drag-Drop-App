@@ -1,0 +1,16 @@
+C:\Users\Sharl\Desktop\All Files\Tech Writer\2022-12-December\4. How to Create a Drag and Drop File Uploader in a Winforms App\DragAndDropApp\bin\Debug\netcoreapp3.1\DragAndDropApp.exe
+C:\Users\Sharl\Desktop\All Files\Tech Writer\2022-12-December\4. How to Create a Drag and Drop File Uploader in a Winforms App\DragAndDropApp\bin\Debug\netcoreapp3.1\DragAndDropApp.deps.json
+C:\Users\Sharl\Desktop\All Files\Tech Writer\2022-12-December\4. How to Create a Drag and Drop File Uploader in a Winforms App\DragAndDropApp\bin\Debug\netcoreapp3.1\DragAndDropApp.runtimeconfig.json
+C:\Users\Sharl\Desktop\All Files\Tech Writer\2022-12-December\4. How to Create a Drag and Drop File Uploader in a Winforms App\DragAndDropApp\bin\Debug\netcoreapp3.1\DragAndDropApp.runtimeconfig.dev.json
+C:\Users\Sharl\Desktop\All Files\Tech Writer\2022-12-December\4. How to Create a Drag and Drop File Uploader in a Winforms App\DragAndDropApp\bin\Debug\netcoreapp3.1\DragAndDropApp.dll
+C:\Users\Sharl\Desktop\All Files\Tech Writer\2022-12-December\4. How to Create a Drag and Drop File Uploader in a Winforms App\DragAndDropApp\bin\Debug\netcoreapp3.1\DragAndDropApp.pdb
+C:\Users\Sharl\Desktop\All Files\Tech Writer\2022-12-December\4. How to Create a Drag and Drop File Uploader in a Winforms App\DragAndDropApp\obj\Debug\netcoreapp3.1\DragAndDropApp.csproj.AssemblyReference.cache
+C:\Users\Sharl\Desktop\All Files\Tech Writer\2022-12-December\4. How to Create a Drag and Drop File Uploader in a Winforms App\DragAndDropApp\obj\Debug\netcoreapp3.1\DragAndDropApp.Form1.resources
+C:\Users\Sharl\Desktop\All Files\Tech Writer\2022-12-December\4. How to Create a Drag and Drop File Uploader in a Winforms App\DragAndDropApp\obj\Debug\netcoreapp3.1\DragAndDropApp.csproj.GenerateResource.cache
+C:\Users\Sharl\Desktop\All Files\Tech Writer\2022-12-December\4. How to Create a Drag and Drop File Uploader in a Winforms App\DragAndDropApp\obj\Debug\netcoreapp3.1\DragAndDropApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sharl\Desktop\All Files\Tech Writer\2022-12-December\4. How to Create a Drag and Drop File Uploader in a Winforms App\DragAndDropApp\obj\Debug\netcoreapp3.1\DragAndDropApp.AssemblyInfoInputs.cache
+C:\Users\Sharl\Desktop\All Files\Tech Writer\2022-12-December\4. How to Create a Drag and Drop File Uploader in a Winforms App\DragAndDropApp\obj\Debug\netcoreapp3.1\DragAndDropApp.AssemblyInfo.cs
+C:\Users\Sharl\Desktop\All Files\Tech Writer\2022-12-December\4. How to Create a Drag and Drop File Uploader in a Winforms App\DragAndDropApp\obj\Debug\netcoreapp3.1\DragAndDropApp.csproj.CoreCompileInputs.cache
+C:\Users\Sharl\Desktop\All Files\Tech Writer\2022-12-December\4. How to Create a Drag and Drop File Uploader in a Winforms App\DragAndDropApp\obj\Debug\netcoreapp3.1\DragAndDropApp.dll
+C:\Users\Sharl\Desktop\All Files\Tech Writer\2022-12-December\4. How to Create a Drag and Drop File Uploader in a Winforms App\DragAndDropApp\obj\Debug\netcoreapp3.1\DragAndDropApp.pdb
+C:\Users\Sharl\Desktop\All Files\Tech Writer\2022-12-December\4. How to Create a Drag and Drop File Uploader in a Winforms App\DragAndDropApp\obj\Debug\netcoreapp3.1\DragAndDropApp.genruntimeconfig.cache
